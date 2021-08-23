@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.americanvintageusa.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.americanvintageusa.com/collections/denim.atom"/>
+  <title>OMG Vintage Clothing</title>
+  <updated>2021-04-05T13:57:53-07:00</updated>
+  <author>
+    <name>OMG Vintage Clothing</name>
+  </author>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6639352742051</id>
+    <published>2021-04-05T13:57:53-07:00</published>
+    <updated>2021-04-05T13:57:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/501-levis-2"/>
+    <title>501 Levis</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/1182001.png?v=1617656565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Jeans<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Waist: 29"</p>
+<p>Inseam: 28"</p>
+<p>Front Rise: 11"</p>
+<p>Hips: 38"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6639352742051</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>481</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6639345664163</id>
+    <published>2021-04-05T13:55:17-07:00</published>
+    <updated>2021-04-05T13:55:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/501-levis-1"/>
+    <title>501 Levis</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/1171001.png?v=1617656702"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Jeans<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Waist: 29"</p>
+<p>Inseam: 25"</p>
+<p>Front Rise: 10"</p>
+<p>Hips: 27"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6639345664163</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>458</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6639338553507</id>
+    <published>2021-04-05T13:52:58-07:00</published>
+    <updated>2021-04-05T13:52:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/501-levi-1"/>
+    <title>501 Levi</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/1163001.png?v=1617656704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Jeans<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Waist: 36"</p>
+<p>Inseam: 33"</p>
+<p>Front Rise: 11"</p>
+<p>Hips: 46"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6639338553507</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>513</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6639331410083</id>
+    <published>2021-04-05T13:50:22-07:00</published>
+    <updated>2021-04-05T13:50:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/501-levi"/>
+    <title>501 Levi</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/1154001.png?v=1617657163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Jeans<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Waist: 32"</p>
+<p>Inseam: 28"</p>
+<p>Front Rise: 11"</p>
+<p>Hips: 44"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6639331410083</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>490</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6639322005667</id>
+    <published>2021-04-05T13:47:20-07:00</published>
+    <updated>2021-04-05T13:47:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/501-levis"/>
+    <title>501 Levis</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/1141001.png?v=1617657291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Jeans<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Waist: 32"</p>
+<p>Inseam: 33"</p>
+<p>Front Rise: 11.5"</p>
+<p>Hips: 42"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6639322005667</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6639307817123</id>
+    <published>2021-04-05T13:42:53-07:00</published>
+    <updated>2021-04-05T13:42:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/505-regular-fit-levis-1"/>
+    <title>505 Regular Fit Levis</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/1130002.png?v=1617655619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Jeans<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Waist: 32"</p>
+<p>Inseam: 29"</p>
+<p>Front Rise: 11"</p>
+<p>Hips: 41"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6639307817123</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6639294447779</id>
+    <published>2021-04-05T13:38:58-07:00</published>
+    <updated>2021-04-05T13:38:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/505-regular-fit-levis"/>
+    <title>505 Regular Fit Levis</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/1118001.png?v=1617655246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Jeans<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Waist: 28"</p>
+<p>Inseam: 28"</p>
+<p>Hip: 34"</p>
+<p>Front Rise: 11"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6639294447779</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>771</s:grams>
+    </s:variant>
+  </entry>
+</feed>

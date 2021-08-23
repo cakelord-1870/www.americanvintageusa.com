@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.americanvintageusa.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.americanvintageusa.com/collections/accessories.atom"/>
+  <title>OMG Vintage Clothing</title>
+  <updated>2021-03-09T15:32:27-08:00</updated>
+  <author>
+    <name>OMG Vintage Clothing</name>
+  </author>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6568885551267</id>
+    <published>2021-03-09T15:32:27-08:00</published>
+    <updated>2021-03-09T15:32:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/trucker-hat-5"/>
+    <title>Trucker Hat</title>
+    <s:type>Hat</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A2180_sdcopy.png?v=1617189508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Hat<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Green trucker hat with foam front.</p>
+<p data-mce-fragment="1">One size.</p>
+<p data-mce-fragment="1">snap closure</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6568885551267</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>H-00007-3/21</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6568879816867</id>
+    <published>2021-03-09T15:28:40-08:00</published>
+    <updated>2021-03-09T15:28:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/trucker-hat-4"/>
+    <title>Trucker Hat</title>
+    <s:type>Hat</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A2184_sdcopy.png?v=1617189554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Hat<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Navy Blue trucker hat with foam front.</p>
+<p data-mce-fragment="1">One size.</p>
+<p data-mce-fragment="1">snap closure</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hats</s:tag>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6568879816867</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>H-00006-3/21</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6568875851939</id>
+    <published>2021-03-09T15:25:40-08:00</published>
+    <updated>2021-03-09T15:25:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/trucker-hat-3"/>
+    <title>Trucker Hat</title>
+    <s:type>Hat</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A2190_sdcopy.png?v=1617189582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Hat<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Yellow trucker hat with foam front.</p>
+<p data-mce-fragment="1">One size</p>
+<p data-mce-fragment="1">snap closure</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hats</s:tag>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6568875851939</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>H-00005-3/21</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6568867922083</id>
+    <published>2021-03-09T15:22:02-08:00</published>
+    <updated>2021-03-09T15:22:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/trucker-hat-2"/>
+    <title>Trucker Hat</title>
+    <s:type>Hat</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A2194_sdcopy.png?v=1617189666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Hat<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Black trucker hat with foam front.</p>
+<p data-mce-fragment="1">One size.</p>
+<p data-mce-fragment="1">snap closure</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6568867922083</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>H-00003-3/21</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6568845050019</id>
+    <published>2021-03-09T15:00:58-08:00</published>
+    <updated>2021-03-09T15:00:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/trucker-hat-1"/>
+    <title>Trucker Hat</title>
+    <s:type>Hat</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A2215_sdcopy.png?v=1617189683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Hat<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Brown trucker hat with foam front.</p>
+<p data-mce-fragment="1">One size.</p>
+<p data-mce-fragment="1">snap closure</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hats</s:tag>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6568845050019</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>H-00002-3/21</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6568840364195</id>
+    <published>2021-03-09T14:57:47-08:00</published>
+    <updated>2021-03-09T14:57:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/trucker-hat"/>
+    <title>Trucker hat</title>
+    <s:type>Hat</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A2221_sdcopy.png?v=1617189695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Hat<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue trucker hat with foam front.</p>
+<p>One size.</p>
+<p>snap closure</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hats</s:tag>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6568840364195</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>H-00001-3/21</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+</feed>

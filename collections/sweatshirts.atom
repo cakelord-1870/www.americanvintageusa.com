@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.americanvintageusa.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.americanvintageusa.com/collections/sweatshirts.atom"/>
+  <title>OMG Vintage Clothing</title>
+  <updated>2021-03-08T14:52:49-08:00</updated>
+  <author>
+    <name>OMG Vintage Clothing</name>
+  </author>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6565866274979</id>
+    <published>2021-03-08T14:52:49-08:00</published>
+    <updated>2021-03-08T14:52:49-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/stanford-university-s"/>
+    <title>Stanford University (S)</title>
+    <s:type>Sweater</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A0644_sdcopy.png?v=1617188560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Sweater<br>
+        <strong>Price: </strong>
+            30.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 20"</div>
+<div style="text-align: center;">Length: 25 1/2"</div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;">Champion Hoodie.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6565866274979</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>SS-00012-3/21</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6565835604131</id>
+    <published>2021-03-08T14:29:12-08:00</published>
+    <updated>2021-03-08T14:29:12-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/1980s-dog"/>
+    <title>1980&apos;s Dog</title>
+    <s:type>Sweater</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/sweater-ss-00011-3-21-28106697244835.png?v=1615856524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Sweater<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chest: 18"</p>
+<p>Length: 22 1/4"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6565835604131</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>SS-00011-3/21</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6565831213219</id>
+    <published>2021-03-08T14:26:15-08:00</published>
+    <updated>2021-03-08T14:26:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/runner-s"/>
+    <title>Runner (S)</title>
+    <s:type>Sweater</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A0621_sdcopy.png?v=1617188606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Sweater<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 21"</div>
+<div style="text-align: center;">Length: 22"</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6565831213219</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>SS-000010-3/21</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6555355480227</id>
+    <published>2021-03-04T17:04:55-08:00</published>
+    <updated>2021-03-04T17:04:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/1990s-mickey"/>
+    <title>1990&apos;s Mickey (L)</title>
+    <s:type>Sweater</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/sweater-ss-00009-3-21-28053141127331.png?v=1615901644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Sweater<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 24"</div>
+<div style="text-align: center;">Length: 27"</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6555355480227</id>
+      <title>Default Title</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>SS-00009-3/21</s:sku>
+      <s:grams>397</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6554661060771</id>
+    <published>2021-03-04T13:40:26-08:00</published>
+    <updated>2021-03-04T13:40:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/chicago-bears"/>
+    <title>Chicago Bears</title>
+    <s:type>Sweater</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A0454_sdcopy.png?v=1617188676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Sweater<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 21 1/2"</div>
+<div style="text-align: center;">Length: 23 1/4"</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6554661060771</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>SS-00008-3/21</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6539850088611</id>
+    <published>2021-03-02T11:08:47-08:00</published>
+    <updated>2021-03-02T11:08:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/hard-rock-los-angeles"/>
+    <title>Hard Rock Los Angeles</title>
+    <s:type>Sweater</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A9847_sdcopy.png?v=1617188694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Sweater<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 23"</div>
+<div style="text-align: center;">Length: 22"</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6539850088611</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>SS-00005-2/21</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6539839864995</id>
+    <published>2021-03-02T11:08:47-08:00</published>
+    <updated>2021-03-02T11:08:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/1980s-blank-sweatshirt"/>
+    <title>1980&apos;s Blank Sweatshirt</title>
+    <s:type>Sweater</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/sweater-ss-00004-2-21-27956454326435.png?v=1615855802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Sweater<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 19"</div>
+<div style="text-align: center;">Length: 25.5"</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6539839864995</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>SS-00004-2/21</s:sku>
+      <s:grams>26</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6537442164899</id>
+    <published>2021-03-02T11:08:41-08:00</published>
+    <updated>2021-03-02T11:08:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/1987-hand-painted-leopard"/>
+    <title>1987 Hand Painted Leopard</title>
+    <s:type>Sweater</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/sweater-ss-00003-2-21-27941944131747.png?v=1615871770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Sweater<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 17"</div>
+<div style="text-align: center;">Length: 23"</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6537442164899</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>SS-00003-2/21</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6537403433123</id>
+    <published>2021-03-02T11:08:41-08:00</published>
+    <updated>2021-03-02T11:08:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/minaki"/>
+    <title>1960&apos;s Minaki</title>
+    <s:type>Sweater</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/sweater-ss-00002-2-21-27941746770083.png?v=1615855511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Sweater<br>
+        <strong>Price: </strong>
+            119.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 23"</div>
+<div style="text-align: center;">Length: 22"</div>
+<div style="text-align: center;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6537403433123</id>
+      <title>Default Title</title>
+      <s:price currency="USD">119.99</s:price>
+      <s:sku>SS-00002-2/21</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6537295954083</id>
+    <published>2021-03-02T11:08:40-08:00</published>
+    <updated>2021-03-02T11:08:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/raw-bits"/>
+    <title>Raw Bits</title>
+    <s:type>Sweater</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A9727_sdcopy.png?v=1617188725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Sweater<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 23"</div>
+<div style="text-align: center;">Length: 24" </div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;">Tape stain on left part of chest and small stains throughout sweater.</div>
+<div style="text-align: center;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6537295954083</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>SS-00001-2/21</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/5564159557795</id>
+    <published>2020-08-19T13:13:51-07:00</published>
+    <updated>2020-08-19T13:13:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/dior-sweater"/>
+    <title>Dior Sweater</title>
+    <s:type>Sweater</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/diorfront.png?v=1615844076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Sweater<br>
+        <strong>Price: </strong>
+            200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 19"</div>
+<div style="text-align: center;">Length: 23"</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/5564159557795</id>
+      <title>Default Title</title>
+      <s:price currency="USD">200.00</s:price>
+      <s:sku>SS-00006-2/21</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/4819581698183</id>
+    <published>2020-03-31T12:04:08-07:00</published>
+    <updated>2020-03-31T12:04:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/1990s-coogi-cardigan"/>
+    <title>1990&apos;s COOGI Cardigan</title>
+    <s:type>Sweater</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/sweater-c-td-0001-15822828011655.png?v=1615890953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Sweater<br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 25"</div>
+<div style="text-align: center;">Length: 29"</div>
+<div style="text-align: center;">Sleeve: 23.5"</div>
+<div style="text-align: center;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/4819581698183</id>
+      <title>Default Title</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>C.TD.0001</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/4819503644807</id>
+    <published>2020-03-31T12:04:08-07:00</published>
+    <updated>2020-03-31T12:04:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/ysl-cardigan"/>
+    <title>YSL Cardigan</title>
+    <s:type>Sweater</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/C.BE.0001.png?v=1615838087"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Sweater<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Sleeves: 24.5"</div>
+<div style="text-align: center;">Chest: 24"</div>
+<div style="text-align: center;">Length: 27"</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/4819503644807</id>
+      <title>Default Title</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>SS-00007-2/21</s:sku>
+      <s:grams>414</s:grams>
+    </s:variant>
+  </entry>
+</feed>

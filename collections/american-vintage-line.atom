@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.americanvintageusa.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.americanvintageusa.com/collections/american-vintage-line.atom"/>
+  <title>OMG Vintage Clothing</title>
+  <updated>2021-05-19T10:55:54-07:00</updated>
+  <author>
+    <name>OMG Vintage Clothing</name>
+  </author>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6957218594979</id>
+    <published>2021-05-19T10:55:54-07:00</published>
+    <updated>2021-05-19T10:55:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/army-shirt-l"/>
+    <title>Army Shirt (L)</title>
+    <s:type>Jacket</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/3480001copy.png?v=1621447079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Jacket<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chest: 25" </p>
+<p>Length: 30"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6957218594979</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6565730746531</id>
+    <published>2021-03-08T13:38:04-08:00</published>
+    <updated>2021-03-08T13:38:04-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/nike-s"/>
+    <title>Nike (S)</title>
+    <s:type>Jacket</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A0599_sdcopy.png?v=1617188843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Jacket<br>
+        <strong>Price: </strong>
+            48.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 21 1/4"</div>
+<div style="text-align: center;">Length: 21"</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6565730746531</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>OW-00002-3/21</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6555343356067</id>
+    <published>2021-03-04T16:58:10-08:00</published>
+    <updated>2021-03-04T16:58:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/womens-north-m"/>
+    <title>Womens North (M)</title>
+    <s:type>Jacket</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A0526_sdcopy.png?v=1617189053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Jacket<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 19 1/2"</div>
+<div style="text-align: center;">Length: 25"</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6555343356067</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>OW-00002-3/21</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/4819616858247</id>
+    <published>2020-03-31T12:04:08-07:00</published>
+    <updated>2020-03-31T12:04:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/1980s-silkworm-picasso-jacket"/>
+    <title>1980&apos;s Silkworm Picasso</title>
+    <s:type>Jacket</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/jacket-f-pk-0001-15822989557895.png?v=1615864208"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Jacket<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 26"</div>
+<div style="text-align: center;">Length: 25"</div>
+<div style="text-align: center;">Sleeves: 23"</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/4819616858247</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>F.PK.0001</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/4819541164167</id>
+    <published>2020-03-31T12:04:08-07:00</published>
+    <updated>2020-03-31T12:04:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/1950s-champions-sweater"/>
+    <title>1950&apos;s Champions</title>
+    <s:type>Sweater</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/C.GN.0001.png?v=1615852476"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Sweater<br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 23.5"</div>
+<div style="text-align: center;">Length: 26"</div>
+<div style="text-align: center;">Sleeves: 24.5"</div>
+<div style="text-align: center;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/4819541164167</id>
+      <title>Default Title</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>OW-00001-2/21</s:sku>
+      <s:grams>374</s:grams>
+    </s:variant>
+  </entry>
+</feed>

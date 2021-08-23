@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.americanvintageusa.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.americanvintageusa.com/collections/new-arrivals.atom"/>
+  <title>OMG Vintage Clothing</title>
+  <updated>2021-05-19T10:55:54-07:00</updated>
+  <author>
+    <name>OMG Vintage Clothing</name>
+  </author>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6957218594979</id>
+    <published>2021-05-19T10:55:54-07:00</published>
+    <updated>2021-05-19T10:55:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/army-shirt-l"/>
+    <title>Army Shirt (L)</title>
+    <s:type>Jacket</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/3480001copy.png?v=1621447079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Jacket<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chest: 25" </p>
+<p>Length: 30"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6957218594979</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6956502974627</id>
+    <published>2021-05-19T09:31:14-07:00</published>
+    <updated>2021-05-19T09:31:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/vandross"/>
+    <title>Vandross (L)</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A1265_sdcopy.png?v=1621442036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chest: 22"</p>
+<p>Length: 29"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6956502974627</id>
+      <title>Default Title</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6852564287651</id>
+    <published>2021-05-06T09:12:14-07:00</published>
+    <updated>2021-05-06T09:12:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/acdc"/>
+    <title>ACDC</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A1236_sdcopy.png?v=1620317781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            65.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chest: 18"</p>
+<p>Length: 25"</p>
+<p> </p>
+<p>Really sun burned and stained but thats what gives it charachter. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6852564287651</id>
+      <title>Default Title</title>
+      <s:price currency="USD">65.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6639352742051</id>
+    <published>2021-04-05T13:57:53-07:00</published>
+    <updated>2021-04-05T13:57:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/501-levis-2"/>
+    <title>501 Levis</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/1182001.png?v=1617656565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Jeans<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Waist: 29"</p>
+<p>Inseam: 28"</p>
+<p>Front Rise: 11"</p>
+<p>Hips: 38"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6639352742051</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>481</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6639345664163</id>
+    <published>2021-04-05T13:55:17-07:00</published>
+    <updated>2021-04-05T13:55:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/501-levis-1"/>
+    <title>501 Levis</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/1171001.png?v=1617656702"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Jeans<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Waist: 29"</p>
+<p>Inseam: 25"</p>
+<p>Front Rise: 10"</p>
+<p>Hips: 27"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6639345664163</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>458</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6639338553507</id>
+    <published>2021-04-05T13:52:58-07:00</published>
+    <updated>2021-04-05T13:52:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/501-levi-1"/>
+    <title>501 Levi</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/1163001.png?v=1617656704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Jeans<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Waist: 36"</p>
+<p>Inseam: 33"</p>
+<p>Front Rise: 11"</p>
+<p>Hips: 46"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6639338553507</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>513</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6639331410083</id>
+    <published>2021-04-05T13:50:22-07:00</published>
+    <updated>2021-04-05T13:50:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/501-levi"/>
+    <title>501 Levi</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/1154001.png?v=1617657163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Jeans<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Waist: 32"</p>
+<p>Inseam: 28"</p>
+<p>Front Rise: 11"</p>
+<p>Hips: 44"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6639331410083</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>490</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6639322005667</id>
+    <published>2021-04-05T13:47:20-07:00</published>
+    <updated>2021-04-05T13:47:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/501-levis"/>
+    <title>501 Levis</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/1141001.png?v=1617657291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Jeans<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Waist: 32"</p>
+<p>Inseam: 33"</p>
+<p>Front Rise: 11.5"</p>
+<p>Hips: 42"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6639322005667</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6639307817123</id>
+    <published>2021-04-05T13:42:53-07:00</published>
+    <updated>2021-04-05T13:42:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/505-regular-fit-levis-1"/>
+    <title>505 Regular Fit Levis</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/1130002.png?v=1617655619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Jeans<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Waist: 32"</p>
+<p>Inseam: 29"</p>
+<p>Front Rise: 11"</p>
+<p>Hips: 41"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6639307817123</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6639294447779</id>
+    <published>2021-04-05T13:38:58-07:00</published>
+    <updated>2021-04-05T13:38:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/505-regular-fit-levis"/>
+    <title>505 Regular Fit Levis</title>
+    <s:type>Jeans</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/1118001.png?v=1617655246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Jeans<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Waist: 28"</p>
+<p>Inseam: 28"</p>
+<p>Hip: 34"</p>
+<p>Front Rise: 11"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6639294447779</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>771</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6568885551267</id>
+    <published>2021-03-09T15:32:27-08:00</published>
+    <updated>2021-03-09T15:32:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/trucker-hat-5"/>
+    <title>Trucker Hat</title>
+    <s:type>Hat</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A2180_sdcopy.png?v=1617189508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Hat<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Green trucker hat with foam front.</p>
+<p data-mce-fragment="1">One size.</p>
+<p data-mce-fragment="1">snap closure</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6568885551267</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>H-00007-3/21</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6568879816867</id>
+    <published>2021-03-09T15:28:40-08:00</published>
+    <updated>2021-03-09T15:28:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/trucker-hat-4"/>
+    <title>Trucker Hat</title>
+    <s:type>Hat</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A2184_sdcopy.png?v=1617189554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Hat<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Navy Blue trucker hat with foam front.</p>
+<p data-mce-fragment="1">One size.</p>
+<p data-mce-fragment="1">snap closure</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hats</s:tag>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6568879816867</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>H-00006-3/21</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6568875851939</id>
+    <published>2021-03-09T15:25:40-08:00</published>
+    <updated>2021-03-09T15:25:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/trucker-hat-3"/>
+    <title>Trucker Hat</title>
+    <s:type>Hat</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A2190_sdcopy.png?v=1617189582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Hat<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Yellow trucker hat with foam front.</p>
+<p data-mce-fragment="1">One size</p>
+<p data-mce-fragment="1">snap closure</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hats</s:tag>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6568875851939</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>H-00005-3/21</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6568867922083</id>
+    <published>2021-03-09T15:22:02-08:00</published>
+    <updated>2021-03-09T15:22:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/trucker-hat-2"/>
+    <title>Trucker Hat</title>
+    <s:type>Hat</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A2194_sdcopy.png?v=1617189666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Hat<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Black trucker hat with foam front.</p>
+<p data-mce-fragment="1">One size.</p>
+<p data-mce-fragment="1">snap closure</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6568867922083</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>H-00003-3/21</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6568845050019</id>
+    <published>2021-03-09T15:00:58-08:00</published>
+    <updated>2021-03-09T15:00:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/trucker-hat-1"/>
+    <title>Trucker Hat</title>
+    <s:type>Hat</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A2215_sdcopy.png?v=1617189683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Hat<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Brown trucker hat with foam front.</p>
+<p data-mce-fragment="1">One size.</p>
+<p data-mce-fragment="1">snap closure</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hats</s:tag>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6568845050019</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>H-00002-3/21</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6568840364195</id>
+    <published>2021-03-09T14:57:47-08:00</published>
+    <updated>2021-03-09T14:57:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/trucker-hat"/>
+    <title>Trucker hat</title>
+    <s:type>Hat</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A2221_sdcopy.png?v=1617189695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Hat<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue trucker hat with foam front.</p>
+<p>One size.</p>
+<p>snap closure</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hats</s:tag>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6568840364195</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>H-00001-3/21</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6565866274979</id>
+    <published>2021-03-08T14:52:49-08:00</published>
+    <updated>2021-03-08T14:52:49-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/stanford-university-s"/>
+    <title>Stanford University (S)</title>
+    <s:type>Sweater</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A0644_sdcopy.png?v=1617188560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Sweater<br>
+        <strong>Price: </strong>
+            30.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 20"</div>
+<div style="text-align: center;">Length: 25 1/2"</div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;">Champion Hoodie.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6565866274979</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>SS-00012-3/21</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6565839306915</id>
+    <published>2021-03-08T14:31:53-08:00</published>
+    <updated>2021-03-08T14:31:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/bottoms-up-m"/>
+    <title>Bottoms Up (M)</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A0631_sdcopy.png?v=1615844929"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 20 1/4"</div>
+<div style="text-align: center;">Length: 26 1/2"</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6565839306915</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>TS-00079-3/21</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6565835604131</id>
+    <published>2021-03-08T14:29:12-08:00</published>
+    <updated>2021-03-08T14:29:12-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/1980s-dog"/>
+    <title>1980&apos;s Dog</title>
+    <s:type>Sweater</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/sweater-ss-00011-3-21-28106697244835.png?v=1615856524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Sweater<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chest: 18"</p>
+<p>Length: 22 1/4"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6565835604131</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>SS-00011-3/21</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6565831213219</id>
+    <published>2021-03-08T14:26:15-08:00</published>
+    <updated>2021-03-08T14:26:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/runner-s"/>
+    <title>Runner (S)</title>
+    <s:type>Sweater</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A0621_sdcopy.png?v=1617188606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Sweater<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 21"</div>
+<div style="text-align: center;">Length: 22"</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6565831213219</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>SS-000010-3/21</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6565730746531</id>
+    <published>2021-03-08T13:38:04-08:00</published>
+    <updated>2021-03-08T13:38:04-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/nike-s"/>
+    <title>Nike (S)</title>
+    <s:type>Jacket</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A0599_sdcopy.png?v=1617188843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>Jacket<br>
+        <strong>Price: </strong>
+            48.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 21 1/4"</div>
+<div style="text-align: center;">Length: 21"</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6565730746531</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.99</s:price>
+      <s:sku>OW-00002-3/21</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6565722325155</id>
+    <published>2021-03-08T13:34:08-08:00</published>
+    <updated>2021-03-08T13:34:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/good-fun"/>
+    <title>Good Fun</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A0586_sdcopy.png?v=1617187987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 21 3/4"</div>
+<div style="text-align: center;">Length: 26 1/2"</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6565722325155</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>TS-00078-3/21</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6565711511715</id>
+    <published>2021-03-08T13:31:03-08:00</published>
+    <updated>2021-03-08T13:31:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/bill-beth-open-s"/>
+    <title>Bill &amp; Beth Open (S)</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A0575_sdcopy.png?v=1617187997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 19 1/2"</div>
+<div style="text-align: center;">Length: 28"</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6565711511715</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>TS-00076-3/21</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6565698404515</id>
+    <published>2021-03-08T13:26:55-08:00</published>
+    <updated>2021-03-08T13:26:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/national-matches-camp-s-m"/>
+    <title>National Matches Camp (S/M)</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A0580_sdcopy.png?v=1617188019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 21"</div>
+<div style="text-align: center;">Length: 26 1/4"</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6565698404515</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>TS-00077-3/21</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6565657608355</id>
+    <published>2021-03-08T13:14:21-08:00</published>
+    <updated>2021-03-08T13:14:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/frontier-s-1"/>
+    <title>Frontier (S)</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A0571_sdcopy.png?v=1617188040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 20"</div>
+<div style="text-align: center;">Lengtgh: 27 3/4"</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6565657608355</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>TS-00075-3/21</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>

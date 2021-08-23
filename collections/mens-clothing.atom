@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.americanvintageusa.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.americanvintageusa.com/collections/mens-clothing.atom"/>
+  <title>OMG Vintage Clothing</title>
+  <updated>2021-05-19T09:31:14-07:00</updated>
+  <author>
+    <name>OMG Vintage Clothing</name>
+  </author>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6956502974627</id>
+    <published>2021-05-19T09:31:14-07:00</published>
+    <updated>2021-05-19T09:31:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/vandross"/>
+    <title>Vandross (L)</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A1265_sdcopy.png?v=1621442036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chest: 22"</p>
+<p>Length: 29"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6956502974627</id>
+      <title>Default Title</title>
+      <s:price currency="USD">180.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6852564287651</id>
+    <published>2021-05-06T09:12:14-07:00</published>
+    <updated>2021-05-06T09:12:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/acdc"/>
+    <title>ACDC</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A1236_sdcopy.png?v=1620317781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            65.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chest: 18"</p>
+<p>Length: 25"</p>
+<p> </p>
+<p>Really sun burned and stained but thats what gives it charachter. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6852564287651</id>
+      <title>Default Title</title>
+      <s:price currency="USD">65.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6565839306915</id>
+    <published>2021-03-08T14:31:53-08:00</published>
+    <updated>2021-03-08T14:31:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/bottoms-up-m"/>
+    <title>Bottoms Up (M)</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A0631_sdcopy.png?v=1615844929"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 20 1/4"</div>
+<div style="text-align: center;">Length: 26 1/2"</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6565839306915</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.99</s:price>
+      <s:sku>TS-00079-3/21</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6565722325155</id>
+    <published>2021-03-08T13:34:08-08:00</published>
+    <updated>2021-03-08T13:34:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/good-fun"/>
+    <title>Good Fun</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A0586_sdcopy.png?v=1617187987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 21 3/4"</div>
+<div style="text-align: center;">Length: 26 1/2"</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6565722325155</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>TS-00078-3/21</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6565711511715</id>
+    <published>2021-03-08T13:31:03-08:00</published>
+    <updated>2021-03-08T13:31:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/bill-beth-open-s"/>
+    <title>Bill &amp; Beth Open (S)</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A0575_sdcopy.png?v=1617187997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 19 1/2"</div>
+<div style="text-align: center;">Length: 28"</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6565711511715</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>TS-00076-3/21</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6565698404515</id>
+    <published>2021-03-08T13:26:55-08:00</published>
+    <updated>2021-03-08T13:26:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/national-matches-camp-s-m"/>
+    <title>National Matches Camp (S/M)</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A0580_sdcopy.png?v=1617188019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 21"</div>
+<div style="text-align: center;">Length: 26 1/4"</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6565698404515</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>TS-00077-3/21</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6565657608355</id>
+    <published>2021-03-08T13:14:21-08:00</published>
+    <updated>2021-03-08T13:14:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/frontier-s-1"/>
+    <title>Frontier (S)</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A0571_sdcopy.png?v=1617188040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 20"</div>
+<div style="text-align: center;">Lengtgh: 27 3/4"</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6565657608355</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>TS-00075-3/21</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6565636866211</id>
+    <published>2021-03-08T13:07:39-08:00</published>
+    <updated>2021-03-08T13:07:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/class-of-67"/>
+    <title>Class of 67&apos;</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A0565_sdcopy.png?v=1615844448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 17 1/2"</div>
+<div style="text-align: center;">Length: 26 1/2"</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6565636866211</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>TS-00074-3/21</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6565588435107</id>
+    <published>2021-03-08T12:55:07-08:00</published>
+    <updated>2021-03-08T12:55:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/frontier-m"/>
+    <title>Frontier (M)</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A0559_sdcopy.png?v=1615843500"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 20"</div>
+<div style="text-align: center;">Length: 26 1/2"</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6565588435107</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>TS-00073-3/21</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6565299749027</id>
+    <published>2021-03-08T12:12:40-08:00</published>
+    <updated>2021-03-08T12:12:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/just-a-kiss-away-s"/>
+    <title>Just a Kiss Away (S)</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A0554_sdcopy.png?v=1615842526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 18"</div>
+<div style="text-align: center;">Length: 24 3/4"</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6565299749027</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>TS-00072-3/21</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6565205541027</id>
+    <published>2021-03-08T11:58:58-08:00</published>
+    <updated>2021-03-08T11:58:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/crush-s"/>
+    <title>Crush (S)</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A0549_sdcopy.png?v=1615844218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 18 1/4"</div>
+<div style="text-align: center;">Length: 25 3/4"</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6565205541027</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>TS-00071-3/21</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6565175623843</id>
+    <published>2021-03-08T11:54:32-08:00</published>
+    <updated>2021-03-08T11:54:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/frontier-s"/>
+    <title>Frontier (S)</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A0546_sdcopy.png?v=1615843363"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 18"</div>
+<div style="text-align: center;">Length: 25"</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6565175623843</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>TS-00070-3/21</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6565151965347</id>
+    <published>2021-03-08T11:51:24-08:00</published>
+    <updated>2021-03-08T11:51:24-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/comanche-s"/>
+    <title>Comanche (S)</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A0537_sdcopy.png?v=1615844334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 18"</div>
+<div style="text-align: center;">Length: 25"</div>
+<div style="text-align: center;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6565151965347</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.99</s:price>
+      <s:sku>TS-00069-3/21</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6565095407779</id>
+    <published>2021-03-08T11:44:16-08:00</published>
+    <updated>2021-03-08T11:44:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/dylan-true-confessions"/>
+    <title>Bob Dylan True Confessions (M)</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A0518_sdcopy.png?v=1615845170"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            125.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 20"</div>
+<div style="text-align: center;">Length: 27"</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6565095407779</id>
+      <title>Default Title</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>TS-00067-3/21</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6565043503267</id>
+    <published>2021-03-08T11:37:46-08:00</published>
+    <updated>2021-03-08T11:37:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/1990s-luther-vandross-m-l"/>
+    <title>1990&apos;s Luther Vandross (M/L)</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/t-shirt-ts-00066-3-21-28104106082467.png?v=1615896781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            145.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 22"</div>
+<div style="text-align: center;">Length: 26 1/2"</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6565043503267</id>
+      <title>Default Title</title>
+      <s:price currency="USD">145.00</s:price>
+      <s:sku>TS-00066-3/21</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6564519510179</id>
+    <published>2021-03-08T10:19:30-08:00</published>
+    <updated>2021-03-08T10:19:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/1995-marilyn-monroe-m"/>
+    <title>1995 Marilyn Monroe (M)</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/t-shirt-ts-00065-3-21-28102718062755.png?v=1617188091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 19 1/4"</div>
+<div style="text-align: center;">Length: 27"</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6564519510179</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>TS-00065-3/21</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6557083336867</id>
+    <published>2021-03-05T13:36:09-08:00</published>
+    <updated>2021-03-05T13:36:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/1991-kids-batman-returns-ys"/>
+    <title>1991 Kids Batman Returns (YS)</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/t-shirt-ts-00064-3-21-28065670660259.png?v=1615903566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 16 1/2"<br>
+</div>
+<div style="text-align: center;">Length: 20"</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6557083336867</id>
+      <title>Default Title</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>TS-00064-3/21</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6555325563043</id>
+    <published>2021-03-04T16:59:41-08:00</published>
+    <updated>2021-03-04T16:59:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/1997-misfits-signed-by-jerry-only"/>
+    <title>1997 Misfits signed by Jerry Only (L)</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/t-shirt-ts-00063-3-21-28053018640547.png?v=1615915450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 21"</div>
+<div style="text-align: center;">Length: 29"</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6555325563043</id>
+      <title>Default Title</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>TS-00063-3/21</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6555218641059</id>
+    <published>2021-03-04T16:24:22-08:00</published>
+    <updated>2021-03-04T16:24:22-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/reaper-m-l"/>
+    <title>Reaper (M/L)</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A0490_sdcopy.png?v=1615840964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 21"</div>
+<div style="text-align: center;">Length: 27"</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6555218641059</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>TS-00062-3/21</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6555089633443</id>
+    <published>2021-03-04T15:07:02-08:00</published>
+    <updated>2021-03-04T15:07:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/1991-m-c-escher-hiers"/>
+    <title>1991 M.C. Escher Hiers (S/M)</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/t-shirt-ts-00061-3-21-28052288733347.png?v=1615904529"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 20"</div>
+<div style="text-align: center;">Length: 26"</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6555089633443</id>
+      <title>Default Title</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>TS-00061-3/21</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6555060011171</id>
+    <published>2021-03-04T15:01:02-08:00</published>
+    <updated>2021-03-04T15:01:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/the-crow"/>
+    <title>The Crow (S/M)</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A0480_sdcopy.png?v=1615840121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 20 3/4"</div>
+<div style="text-align: center;">Length: 27"</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6555060011171</id>
+      <title>Default Title</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>TS-00060-3/21</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6555004829859</id>
+    <published>2021-03-04T14:47:59-08:00</published>
+    <updated>2021-03-04T14:47:59-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/metal-mulisha"/>
+    <title>Metal Mulisha (M)</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A9684_sdcopy.png?v=1615841801"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 20 3/4"</div>
+<div style="text-align: center;">Length: 28"</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6555004829859</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>TS-00059-3/21</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6554969637027</id>
+    <published>2021-03-04T14:40:11-08:00</published>
+    <updated>2021-03-04T14:40:11-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/the-rock"/>
+    <title>The Rock (S)</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A0468_sdcopy.png?v=1615839883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 22"</div>
+<div style="text-align: center;">Length: 25 1/2"</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6554969637027</id>
+      <title>Default Title</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>TS-00058-3/21</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6554947616931</id>
+    <published>2021-03-04T14:35:02-08:00</published>
+    <updated>2021-03-04T14:35:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/oakland-raiders"/>
+    <title>Oakland Raiders (M)</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/JM5A0464_sdcopy.png?v=1617188906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 21 1/4"</div>
+<div style="text-align: center;">Length: 25 1/2"</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6554947616931</id>
+      <title>Default Title</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>TS-00057-3/21</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.americanvintageusa.com/products/6554834763939</id>
+    <published>2021-03-04T14:16:40-08:00</published>
+    <updated>2021-03-04T14:16:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.americanvintageusa.com/products/alabama-fan-club"/>
+    <title>Alabama Fan Club (S)</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>OMG Vintage Clothing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2090/1967/products/t-shirt-ts-00056-3-21-28051740819619.png?v=1615930002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OMG Vintage Clothing<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Chest: 20 1/2"</div>
+<div style="text-align: center;">Length: 25 1/2"</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.americanvintageusa.com/products/6554834763939</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>TS-00056-3/21</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>
